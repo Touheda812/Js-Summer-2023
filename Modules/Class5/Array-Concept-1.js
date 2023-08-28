@@ -1,6 +1,6 @@
 /**
  * Array:
- *      which can store one or more valiues at any given time.
+ *      which can store one or more values at any given time.
  *      technically, is an object
  *      represent by []
  */
